@@ -9,6 +9,7 @@ User Information:
 
 Name: {$name}
 Address: {$address}
+Zip code: {$zip}
 </pre>
 
 </body>
